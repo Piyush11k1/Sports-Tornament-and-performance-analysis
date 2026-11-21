@@ -3,9 +3,6 @@
 A beginner-friendly, menu-driven Python project (B.Tech CSE, 1st year) that loads
 players' data from a CSV file, analyses it with **pandas** and draws graphs with **matplotlib**.
 
-**Author:** ____________________  
-**Roll No. / Section:** ____________________  
-**GitHub Repo:** ____________________
 
 ## Features
 
